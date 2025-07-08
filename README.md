@@ -31,4 +31,4 @@ LK59.fun
 
 选择HTTPS加密网站：确保网站使用加密协议，提高安全性。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/mua246/23356 ）</span>
